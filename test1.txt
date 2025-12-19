@@ -1,0 +1,6 @@
+hi this my first github
+<<<<<<< HEAD
+AAdhirai JC
+=======
+I'M fine!!
+>>>>>>> 161db7cb9bdacb2a2c499446ad1fc2ede171bf17
